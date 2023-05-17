@@ -17,7 +17,7 @@
 
 - ⚡ Dato gracioso **Soy extremadamente cobarde**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Chatea conmigo si tienes dudas en Discord: ElSus2022#5727 </h3>
 <p align="left">
 </p>
 
