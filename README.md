@@ -16,6 +16,8 @@
 
 - 📫 Me puedes contactar usando este correo: **josemanuelibanez2020@gmail.com**
 
+- Hago streams en twitch como : Anonstreamer23 
+
 - ⚡ Dato gracioso **Soy extremadamente cobarde**
 
 <h3 align="left">Chatea conmigo si tienes dudas en Discord: ElSus2022#5727 </h3>
