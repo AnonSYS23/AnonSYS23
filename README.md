@@ -16,7 +16,7 @@
 
 - 📫 Me puedes contactar usando este correo: **josemanuelibanez2020@gmail.com**
 
-- Hago streams en twitch como : Anonstreamer23 
+- Hago streams en kick como : AnonProgrammer
 
 - ⚡ Dato gracioso **Soy extremadamente cobarde**
 
