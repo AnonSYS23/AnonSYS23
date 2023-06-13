@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy AnonDEV (Jose Manuel)</h1>
-<h3 align="center">Un Programador de 15 años que se estresa demasiado fácil</h3>
+<h3 align="center">Un Programador que se estresa demasiado fácil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonsys23&label=Profile%20views&color=0e75b6&style=flat" alt="anonsys23" /> </p>
 
