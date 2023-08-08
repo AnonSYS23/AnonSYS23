@@ -11,7 +11,7 @@
 
 - 👯 Estoy interesandome por [BingGPT](https://github.com/dice2o/BingGPT)
 
-- 💬 Preguntame sobre **HTML, CSS**
+- 💬 Preguntame sobre **HTML, JS, CSS**
 
 - 📫 Me puedes contactar usando este correo: **josemanuelibanez2020@gmail.com**
 
