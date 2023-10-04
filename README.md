@@ -1,31 +1,30 @@
-<h1 align="center">Hola 👋, soy AnonDEV (Jose Manuel)</h1>
-<h3 align="center">Un Programador que se estresa demasiado fácil</h3>
+# 💫 About Me:
+🔭 Estoy usando actualmente: CSS, React<br>👯 Busco colaborar en: Proyectos sencillos de React<br>🤝 Necesito ayuda en: Comprender React por completo<br>🌱 Estoy aprendiendo sobre: NPM, React, Vite<br>💬 Preguntame sobre: Cualquier cosa que no se considere inadecuada<br>⚡ Dato curioso: Soy alguien que se estresa de una forma sencilla y explosiva
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonsys23&label=Profile%20views&color=0e75b6&style=flat" alt="anonsys23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonsys23" alt="anonsys23" /></a> </p>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AnonSYS23) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/AnonSYS23) 
 
-- 🔭 Ando chambeando en [mi repositorio personal](https://github.com/AnonSYS23/personal_branch)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnonSYS23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnonSYS23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonSYS23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 Estoy aprendiendo **Front-end y a futuro back-end**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnonSYS23&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 Estoy interesandome por [BingGPT](https://github.com/dice2o/BingGPT)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 💬 Preguntame sobre **HTML, JS, CSS**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnonSYS23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 Me puedes contactar usando este correo: **josemanuelibanez2020@gmail.com**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- Hago streams en kick como : AnonProgrammer
+---
+[![](https://visitcount.itsvg.in/api?id=AnonSYS23&icon=2&color=2)](https://visitcount.itsvg.in)
 
-- ⚡ Dato gracioso **Soy extremadamente cobarde**
-
-<h3 align="left">Chatea conmigo si tienes dudas en Discord: anonsystem </h3>
-<p align="left">
-</p>
-
-<h3 align="left">PD: Mi cuenta mencionada de Discord es antigua y por eso ese nombre tan casual </h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
